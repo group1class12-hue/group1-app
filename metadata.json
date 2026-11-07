@@ -1,0 +1,6 @@
+{
+  "name": "Tic-Tac-Toe Studio",
+  "description": "A refined, responsive Tic-Tac-Toe game featuring smart AI bot difficulties, 2-player pass & play, sound effects, move history, and customizable board modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
